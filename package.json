@@ -1,0 +1,33 @@
+{
+  "name": "generator-angcord",
+  "version": "1.1.0",
+  "author": "Salvador Ortega",
+  "description": "Angular 6 and Cordova hybrid project scaffolding updating NavCore's ngCordova minimalist structure.",
+  "keywords": [
+    "yeoman-generator",
+    "angular",
+    "angcord",
+    "ng",
+    "ngCordova",
+    "cordova",
+    "hybrid",
+    "yeoman",
+    "generator"
+  ],
+  "homepage": "https://www.github.com/salvadorOrtega/generator-angcord#readme",
+  "bugs": "https://github.com/salvadorOrtega/generator-angcord/issues",
+  "license": "MIT",
+  "main": "./generators/app/index.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "node-dir": "^0.1.17",
+    "semver": "^5.5.0",
+    "yeoman-generator": "^3.1.0"
+  },
+  "engines": {
+    "node": ">=8.11.3"
+  },
+  "files": [
+    "generators"
+  ]
+}
